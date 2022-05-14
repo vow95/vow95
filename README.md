@@ -1,4 +1,4 @@
-Hello I'm <a href="https://www.ahadmajdami.me/"><div> Ahad Mjaddami !!</div></a>
+Hello I'm <a href="https://www.ahadmajdami.me/">Ahad Mjaddami !!</a>
 
 🔭  I’m currently working on GRC
 🌱  I’m currently learning Flutter ❤, Blockchain
