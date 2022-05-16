@@ -12,9 +12,9 @@
 
 
 <h1>My latest Articles</h1>
-<a style="font-family:Courier; color:Blue; font-size: 50px;" href="https://www.ahadmajdami.me/MasterProcrastinator.html">*Inside the mind of a master procrastinator!!</a>
+<a style="font-family:Courier; color:Blue; font-size: 50px;" href="https://www.ahadmajdami.me/MasterProcrastinator.html">* Inside the mind of a master procrastinator!!</a>
 <br>
-<a style="font-family:Courier; color:Blue; font-size: 50px;" href="https://www.ahadmajdami.me/Blockchain.html">*ChainTech</a>
+<a style="font-family:Courier; color:Blue; font-size: 50px;" href="https://www.ahadmajdami.me/Blockchain.html">* ChainTech</a>
 <!---
 vow95/vow95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
